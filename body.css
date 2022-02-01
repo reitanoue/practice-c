@@ -8,9 +8,15 @@ p{
   font: 12px;
   margin: 0px 0px;
 }
-a:hover{
+
+.members{
+  width: 30%;
+  height: 50%;
+}
+
+.members:hover{
   opacity: 0.6;
-  transition-duration: 0.6s;
+  transition-duration: 0.9s;
 }
 
 
